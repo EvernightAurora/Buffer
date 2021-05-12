@@ -1,0 +1,4 @@
+https://github.com/develsoftware/gminerrelease/releases
+
+miner.exe --algo ethash --server cn-eth.ss.btc.com:1800 --user evernight.gm
+pause
